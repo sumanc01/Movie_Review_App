@@ -1,0 +1,15 @@
+[2015-01-30 16:25:15,129][INFO ][node                     ] [Holly] version[1.4.2], pid[5844], build[927caff/2014-12-16T14:11:12Z]
+[2015-01-30 16:25:15,130][INFO ][node                     ] [Holly] initializing ...
+[2015-01-30 16:25:15,155][INFO ][plugins                  ] [Holly] loaded [], sites []
+[2015-01-30 16:25:23,530][INFO ][node                     ] [Holly] initialized
+[2015-01-30 16:25:23,530][INFO ][node                     ] [Holly] starting ...
+[2015-01-30 16:25:24,134][INFO ][transport                ] [Holly] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/49.205.159.40:9300]}
+[2015-01-30 16:25:24,323][INFO ][discovery                ] [Holly] elasticsearch/mUEP5C1SSva38akEu5Il-Q
+[2015-01-30 16:25:28,274][INFO ][cluster.service          ] [Holly] new_master [Holly][mUEP5C1SSva38akEu5Il-Q][WINCTRL-OEINDJ8][inet[/49.205.159.40:9300]], reason: zen-disco-join (elected_as_master)
+[2015-01-30 16:25:28,415][INFO ][http                     ] [Holly] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/49.205.159.40:9200]}
+[2015-01-30 16:25:28,415][INFO ][node                     ] [Holly] started
+[2015-01-30 16:25:28,421][INFO ][gateway                  ] [Holly] recovered [0] indices into cluster_state
+[2015-01-30 16:28:45,414][INFO ][node                     ] [Holly] stopping ...
+[2015-01-30 16:28:45,458][INFO ][node                     ] [Holly] stopped
+[2015-01-30 16:28:45,459][INFO ][node                     ] [Holly] closing ...
+[2015-01-30 16:28:45,466][INFO ][node                     ] [Holly] closed
